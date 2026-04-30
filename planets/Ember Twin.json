@@ -1,0 +1,59 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/body_schema.json",
+    "Name": "CAVE_TWIN",
+    "Props": {
+       "translatorText": [
+            {
+                "type": "whiteboard",
+                "position": {"x": 37.4, "y": -100.1, "z": -19},
+                "rotation": {"x": 13.2, "y": 255, "z": 166 }
+            },
+            {
+                "type": "scroll",
+                "xmlFile": "planets/text/luma_laurus_1.xml",
+                "position": {"x": 31.07214, "y": -102.5, "z": -16.87378},
+                "rotation": {"x": 17.7839, "y": 280.8863, "z": 172.5133},
+                "seed": 3,
+                "arcInfo":[
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" }
+                ]
+            },
+            {
+                "type": "scroll",
+                "xmlFile": "planets/text/luma_laurus_2.xml",
+                "position": {"x": 37.33188, "y": -99.93664, "z": -21.20123},
+                "rotation": {"x": 0, "y": 0, "z": 0 },
+                "seed": 1,
+                "arcInfo":[
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" }
+                ]
+            },
+            {
+                "type": "scroll",
+                "xmlFile": "planets/text/luma_laurus_3.xml",
+                "position": {"x": 37, "y": -101.8647, "z": -16.1},
+                "rotation": {"x": 90, "y": 0, "z": 0 },
+                "seed": 1,
+                "arcInfo":[
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" },
+                    { "type": "adult" }
+                ]
+            }
+        ]
+        
+    }
+}

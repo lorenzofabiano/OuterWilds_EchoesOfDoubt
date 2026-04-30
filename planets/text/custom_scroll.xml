@@ -1,0 +1,18 @@
+<NomaiObject>
+    <TextBlock>
+        <ID>1</ID>
+        <Text>Welcome to this uncharted world.</Text>
+    </TextBlock>
+
+    <TextBlock>
+        <ID>2</ID>
+        <ParentID>1</ParentID>
+        <Text>This scroll was left here by a curious traveler using New Horizons!</Text>
+    </TextBlock>
+
+    <TextBlock>
+        <ID>3</ID>
+        <ParentID>1</ParentID>
+        <Text>End of log.</Text>
+    </TextBlock>
+</NomaiObject>

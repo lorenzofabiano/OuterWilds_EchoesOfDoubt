@@ -1,0 +1,31 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+    <TextBlock>
+        <ID>1</ID>
+        <Text>LUMA: The Ash Twin Project has been approved. Construction will begin soon...</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>2</ID>
+        <ParentID>1</ParentID>
+        <Text>LAURUS: You sound concerned, my dear. What troubles you?</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>3</ID>
+        <ParentID>2</ParentID>
+        <Text>LUMA: We have achieved knowledge and technology that no other lifeform has come close to comprehending.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>4</ID>
+        <ParentID>3</ParentID>
+        <Text>LUMA: And now, we begin constructing the bridge that will connect us to the Eye of the Universe.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>5</ID>
+        <ParentID>4</ParentID>
+        <Text>LAURUS: But this is all great news, Luma. This confirms our efforts were not in vain.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>6</ID>
+        <ParentID>5</ParentID>
+        <Text>LUMA: What you say is true. However, I cannot help but feel a sense of dread in knowing we are finally reaching the source of the signal, and with it, the conclusion of our journey. I wonder... when the journey ends, what becomes of the travelers?</Text>
+    </TextBlock>
+</NomaiObject>

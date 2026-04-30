@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "NewHorizonsConfig.dll",
-	"author": "[your name]",
-	"name": "[your readable mod name]",
-	"uniqueName": "[your name].[your unique mod ID]",
+	"author": "Goffredo",
+	"name": "Echoes of Doubt",
+	"uniqueName": "lorenzofabiano.EchoesOfDoubt",
 	"version": "0.0.0",
 	"owmlVersion": "2.15.1",
 	"dependencies": [ "xen.NewHorizons" ]

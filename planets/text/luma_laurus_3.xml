@@ -1,0 +1,41 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+    <TextBlock>
+        <ID>1</ID>
+        <Text>LAURUS: You know, I am not unfamiliar with what you are feeling. I believe that deep down, every Nomai is afraid to die in the name of science and progress, even if they are willing to do so.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>2</ID>
+        <ParentID>1</ParentID>
+        <Text>LUMA: I believe that, too... However, I think there is more to it. although it's in Nomai nature to observe and understand anything within the universe, the Eye feels like it's something we are not meant to see.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>3</ID>
+        <ParentID>2</ParentID>
+        <Text>LUMA: I think even we Nomai, for the first time in generations, are feeling a primordial fear of the truly unknown.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>4</ID>
+        <ParentID>3</ParentID>
+        <Text>LAURUS: There is no shame in admitting we remain influenced by our survival instinct. It is only through thousands of years of self-observation that we have learned to act in favor of those who come after us.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>5</ID>
+        <ParentID>4</ParentID>
+        <Text>LUMA: Our curiosity guided us here; we were ready for risk before we even started this journey. Why is it only now that this fear takes hold?</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>6</ID>
+        <ParentID>5</ParentID>
+        <Text>LAURUS: We all know it, somehow: every truth we learned throughout our history pales in comparison to what this one will mean... Let's not be discouraged.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>7</ID>
+        <ParentID>6</ParentID>
+        <Text>LAURUS: Time travel, the Quantum Moon, the Eye... Not to mention our people who couldn't make it as far as we did... It cannot be all without purpose.</Text>
+    </TextBlock>
+    <TextBlock>
+        <ID>8</ID>
+        <ParentID>7</ParentID>
+        <Text>LUMA: Then let us cherish every moment we have left together before the sun finally sets, shall we?</Text>
+    </TextBlock>
+</NomaiObject>
