@@ -26,8 +26,8 @@
             {
                 "type": "scroll",
                 "xmlFile": "planets/text/luma_laurus_2.xml",
-                "position": {"x": 37.33188, "y": -99.93664, "z": -21.20123},
-                "rotation": {"x": 0, "y": 0, "z": 0 },
+                "position": {"x": 35.16433, "y": -104, "z": -25.34617},
+                "rotation": {"x": 12.91845, "y": 255.2285, "z": 165.6071},
                 "seed": 1,
                 "arcInfo":[
                     { "type": "adult" },
@@ -39,8 +39,8 @@
             {
                 "type": "scroll",
                 "xmlFile": "planets/text/luma_laurus_3.xml",
-                "position": {"x": 37, "y": -101.8647, "z": -16.1},
-                "rotation": {"x": 90, "y": 0, "z": 0 },
+                "position": {"x": 33.7, "y": -109.5, "z": -24.3},
+                "rotation": {"x": 8.603281, "y": 8.490151, "z": 197.284},
                 "seed": 1,
                 "arcInfo":[
                     { "type": "adult" },

@@ -11,7 +11,7 @@
     <TextBlock>
         <ID>3</ID>
         <ParentID>2</ParentID>
-        <Text>LUMA: Oh Laurus, I wish I shared your certainty. Your words are comforting, but my mind wanders to the statues. If the Project succeeds, those who will see the Eye will have our memories... but will it be us? Or will we have perished in the first fire, leaving only a ghost of data behind?</Text>
+        <Text>LUMA: Oh Laurus, I wish I shared your certainty. Your words are comforting, but my mind wanders to the statues. If the Project succeeds, those who will see the <![CDATA[<color=lightblue>Eye</color>]]> will have our memories... but will it be us? Or will we have perished in the <![CDATA[<color=orange>first fire</color>]]>, leaving only a ghost of data behind?</Text>
     </TextBlock>
     <TextBlock>
         <ID>4</ID>

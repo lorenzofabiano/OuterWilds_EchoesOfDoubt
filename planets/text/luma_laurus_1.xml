@@ -1,7 +1,7 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
     <TextBlock>
         <ID>1</ID>
-        <Text>LUMA: The Ash Twin Project has been approved. Construction will begin soon...</Text>
+        <Text>LUMA: The <![CDATA[<color=orange>Ash Twin Project</color>]]> has been approved. Construction will begin soon...</Text>
     </TextBlock>
     <TextBlock>
         <ID>2</ID>
@@ -16,7 +16,7 @@
     <TextBlock>
         <ID>4</ID>
         <ParentID>3</ParentID>
-        <Text>LUMA: And now, we begin constructing the bridge that will connect us to the Eye of the Universe.</Text>
+        <Text>LUMA: And now, we begin constructing the bridge that will connect us to the <![CDATA[<color=lightblue>Eye of the Universe</color>]]>.</Text>
     </TextBlock>
     <TextBlock>
         <ID>5</ID>
@@ -26,6 +26,6 @@
     <TextBlock>
         <ID>6</ID>
         <ParentID>5</ParentID>
-        <Text>LUMA: What you say is true. However, I cannot help but feel a sense of dread in knowing we are finally reaching the source of the signal, and with it, the conclusion of our journey. I wonder... when the journey ends, what becomes of the travelers?</Text>
+        <Text>LUMA: What you say is true... However, I cannot help but feel a sense of dread in knowing we are finally reaching the source of the signal, and with it, the conclusion of our journey. I wonder... when the journey ends, what becomes of the travelers?</Text>
     </TextBlock>
 </NomaiObject>

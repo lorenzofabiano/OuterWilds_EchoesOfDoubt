@@ -6,7 +6,7 @@
     <TextBlock>
         <ID>2</ID>
         <ParentID>1</ParentID>
-        <Text>LUMA: I believe that, too... However, I think there is more to it. although it's in Nomai nature to observe and understand anything within the universe, the Eye feels like it's something we are not meant to see.</Text>
+        <Text>LUMA: I believe that, too... However, I think there is more to it. although it's in Nomai nature to observe and understand anything within the universe, the <![CDATA[<color=lightblue>Eye</color>]]> feels like it's something we are not meant to see.</Text>
     </TextBlock>
     <TextBlock>
         <ID>3</ID>
@@ -31,7 +31,7 @@
     <TextBlock>
         <ID>7</ID>
         <ParentID>6</ParentID>
-        <Text>LAURUS: Time travel, the Quantum Moon, the Eye... Not to mention our people who couldn't make it as far as we did... It cannot be all without purpose.</Text>
+        <Text>LAURUS: The <![CDATA[<color=orange>Ash Twin Project</color>]]>, the <![CDATA[<color=lightblue>Quantum Moon</color>]]>, the <![CDATA[<color=lightblue>Eye</color>]]>... Not to mention our people who couldn't make it as far as we did... It cannot be all without purpose.</Text>
     </TextBlock>
     <TextBlock>
         <ID>8</ID>
